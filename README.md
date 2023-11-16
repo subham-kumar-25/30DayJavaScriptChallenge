@@ -5,7 +5,7 @@ Welcome to my 30-day JavaScript challenge! In this repository, I will be documen
 ## Table of Contents
 
 - [Day 1: Weather App](#day-1-Weather-App)
-- [Day 2: Project Title](#day-2-project-title)
+- [Day 2: To-Do](#day-2-to-do)
 
 ## Day 1: Weather App
 
@@ -35,8 +35,25 @@ For weather API - Open Weather Map
 
 - How to work with API
 
-## Day 2: Project Title
+## Day 2: To-Do
 
+### Project Description
+
+Simple To-Do, designed to create a to-do task list.
+
+**Key Features:** 
+  - Create a task in the list.
+  - Delete the task from the list.  
+  - Mark the completed task.
+
+### Technologies Used
+
+HTML, CSS, JavaScript
+
+### Screenshots
+
+![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/4a7745f0-c585-442e-8fe2-74aa7843c1b8)
+![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/78b99a27-1afd-43da-adbd-e1895d1d125f)
 
 
 ## Conclusion
