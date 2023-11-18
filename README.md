@@ -6,6 +6,7 @@ Welcome to my 30-day JavaScript challenge! In this repository, I will be documen
 
 - [Day 1: Weather App](#day-1-Weather-App)
 - [Day 2: To-Do](#day-2-to-do)
+- [Day 3: Generate Random Password](#day-3-generate-random-password)
 
 ## Day 1: Weather App
 
@@ -54,6 +55,22 @@ HTML, CSS, JavaScript
 
 ![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/4a7745f0-c585-442e-8fe2-74aa7843c1b8)
 ![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/78b99a27-1afd-43da-adbd-e1895d1d125f)
+
+## Day 3: Generate Random Password
+
+### Project Description
+
+**Key Features of Password** 
+  - 12 character long password.
+  - Password includes numbers, small and capical letter and special character.  
+  - Copy password with one click on copy icon.
+
+### Technologies Used
+
+HTML, CSS, JavaScript
+
+### Screenshots
+![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/a2064e59-a2c3-413b-9b62-b1383bfb7707)
 
 
 ## Conclusion
