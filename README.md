@@ -7,25 +7,20 @@ Welcome to my 30-day JavaScript challenge! In this repository, I will be documen
 - [Day 1: Weather App](#day-1-Weather-App)
 - [Day 2: To-Do](#day-2-to-do)
 - [Day 3: Generate Random Password](#day-3-generate-random-password)
+- [Day 4: Quizz App](#day-4-quiz-app)
 
 ## Day 1: Weather App
 
 ### Project Description
 
-Simple Weather App, designed to provide with up-to-date weather information for any city. Seamlessly search for the city and access comprehensive weather reports.
-
-**Key Features:**
-- **City Search:** Easily input the name of the city you want to check the weather for.
-  
-- **Detailed Weather Report:** 
-  - Temperature readings in Celsius.
-  - Informtion about the humidity levels.  
-  - Current wind speed to anticipate the atmospheric conditions.
+Simple Quiz App, Explore a variety of quizzes on different topics to challenge your knowledge.
+  - Get the result in end.
+  - Questions from different area.  
 
 ### Technologies Used
 
 HTML, CSS, JavaScript
-For weather API - Open Weather Map
+
 
 ### Screenshots
 
@@ -71,6 +66,27 @@ HTML, CSS, JavaScript
 
 ### Screenshots
 ![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/a2064e59-a2c3-413b-9b62-b1383bfb7707)
+
+## Day 4: Quiz App
+
+### Project Description
+
+Simple To-Do, designed to create a to-do task list.
+
+**Key Features:** 
+  - Create a task in the list.
+  - Delete the task from the list.  
+  - Mark the completed task.
+
+### Technologies Used
+
+HTML, CSS, JavaScript
+
+### Screenshots
+
+![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/54e13190-945f-4575-ad25-097699157ffb)
+![image](https://github.com/subham-kumar-25/30DayJavaScriptChallenge/assets/145878998/d2e62271-1b6c-4551-bbfd-dd8f946d3f08)
+
 
 
 ## Conclusion
