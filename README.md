@@ -13,9 +13,12 @@ Welcome to my 30-day JavaScript challenge! In this repository, I will be documen
 
 ### Project Description
 
-Simple Quiz App, Explore a variety of quizzes on different topics to challenge your knowledge.
-  - Get the result in end.
-  - Questions from different area.  
+Simple To-Do, designed to create a to-do task list.
+
+**Key Features:** 
+  - Create a task in the list.
+  - Delete the task from the list.  
+  - Mark the completed task.
 
 ### Technologies Used
 
@@ -71,12 +74,10 @@ HTML, CSS, JavaScript
 
 ### Project Description
 
-Simple To-Do, designed to create a to-do task list.
+Simple Quiz App, Explore a variety of quizzes on different topics to challenge your knowledge.
+  - Get the result in end.
+  - Questions from different area.  
 
-**Key Features:** 
-  - Create a task in the list.
-  - Delete the task from the list.  
-  - Mark the completed task.
 
 ### Technologies Used
 
