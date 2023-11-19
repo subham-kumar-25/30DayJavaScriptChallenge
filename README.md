@@ -13,12 +13,15 @@ Welcome to my 30-day JavaScript challenge! In this repository, I will be documen
 
 ### Project Description
 
-Simple To-Do, designed to create a to-do task list.
+Simple Weather App, designed to provide with up-to-date weather information for any city. Seamlessly search for the city and access comprehensive weather reports.
 
-**Key Features:** 
-  - Create a task in the list.
-  - Delete the task from the list.  
-  - Mark the completed task.
+**Key Features:**
+- **City Search:** Easily input the name of the city you want to check the weather for.
+  
+- **Detailed Weather Report:** 
+  - Temperature readings in Celsius.
+  - Informtion about the humidity levels.  
+  - Current wind speed to anticipate the atmospheric conditions.
 
 ### Technologies Used
 
